@@ -1,0 +1,9 @@
+body {
+    box-sizing: border-box;
+    background-color: red;
+    min-height: 100vh;
+}
+
+*, *:after, *:before {
+    box-sizing: inherit;
+}
